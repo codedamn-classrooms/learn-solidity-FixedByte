@@ -1,0 +1,2 @@
+tabs: ['contracts/FixedSizeArray.sol']
+terminals: ['yarn install']
